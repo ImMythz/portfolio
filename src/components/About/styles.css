@@ -1,0 +1,38 @@
+.about-bg {
+    width: 100%;
+    background-color: #34353a;
+    display: flex;
+    justify-content: center;
+}
+
+.about-container {
+    width: 80%;
+    background-color: #34353a;
+    padding: 2rem;
+}
+
+.about-title {
+    font-size: 5rem;
+    margin: 2rem 0 0.5rem 0;
+    width: 100%;
+    color: white;
+}
+
+.about-content-container {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.line-color {
+    color: rgb(12, 162, 237);
+    font-size: 1rem;
+    font-weight: 800;
+}
+
+.about-text {
+    color: white;
+    margin: 0.25rem 1rem 2rem 1rem;
+    font-size: 1.5rem;
+}
+

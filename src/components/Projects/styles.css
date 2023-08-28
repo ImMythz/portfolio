@@ -1,0 +1,48 @@
+.projects-bg {
+    background-color: #34353a;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 10rem;
+}
+
+.project-title-container {
+    width: 100%;
+    text-align: center;
+}
+
+.project-title {
+    color: white;
+    font-size: 5rem;
+}
+
+.projects-container {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.project-tile {
+    width: 400px;
+    height: 400px;
+}
+
+.project-tile-cover {
+    background-color: #ffffff00;
+    width: 400px;
+    height: 400px;
+}
+.project-tile-cover:hover {
+    background-color: rgba(172, 172, 172, 0.231);
+}
+
+.project-img {
+    aspect-ratio: 1;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
