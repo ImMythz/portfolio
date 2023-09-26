@@ -26,8 +26,8 @@
 }
 
 .skill-tile {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     background-color: rgb(65, 69, 76);
     margin: 0.5rem;
     display: flex;
@@ -44,7 +44,7 @@
 .skill-img {
     aspect-ratio: 1;
     width: 100px;
-    margin: 1.5rem;
+    margin: 1rem;
 }
 
 .skill-title {
