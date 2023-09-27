@@ -2,7 +2,6 @@ import React from 'react';
 import './styles.css'
 
 export default function About() {
-    let about = 'I grew up in Fort Myers, FL before making the biggest move in my life to Dallas, TX in 2014. It was here in Dallas where I finished High School and began working towards furthering my education in the Software Engineering industry. I currently work as a Front End Developer. My hobbies consist of rock climbing, coding and playing disc golf. I am also deeply interested in AI and Machine Learning and strive to one day have a career in and contribute to the AI/Machine Learning industry.'
     return (
         <div className='about-bg'>
             <div className='about-container'>
@@ -12,7 +11,9 @@ export default function About() {
                         <span className='line-color'>________</span>
                     </div>
                     <div>
-                        <p className='about-text'>{about}</p>
+                        <p className='about-text'>I grew up in Fort Myers, FL before making the biggest move in my life to Dallas, TX in 2014. It was here in Dallas where I finished High School and began working towards furthering my education in the Software Engineering industry.
+                        <span className='about-text-alt'>&nbsp;I currently work as a Front End Developer and Co-Founder of a tech starup where I head the engineering team and AI development of the company.</span> 
+                        &nbsp;I have a deep interest in AI/Machine Learning and am always looking to sharpen current skills as well as learn new ones</p>
                     </div>
                 </div>
             </div>
