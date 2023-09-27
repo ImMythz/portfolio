@@ -13,7 +13,7 @@ export default function HeroBanner() {
                 <div className='hero-banner-contents'>
                     <h1 className='hero-title'><span className='hero-title-alt'>{dev}</span> Nate Worley</h1>
                     <p className='hero-alt-text'>Full Stack Software Engineer with a passion for AI/ML</p>
-                    <button className='contact-btn'>CONTACT ME</button>
+                    <a className='contact-btn' href='mailto:email@gmail.com'>CONTACT ME</a>
                 </div>
             </div>
             <div className='pfp-container'>

@@ -11,13 +11,16 @@ export default function Navbar() {
             </div>
             <div className='nav-item-container'>
                 <div className='nav-item'>
-                    <p>About</p>
+                    <a href='#about' className='nav-link'>About</a>
                 </div>
                 <div className='nav-item'>
-                    <p>Skills</p>
+                    <a href='#skills' className='nav-link'>Skills</a>
                 </div>
                 <div className='nav-item'>
-                    <p>Projects</p>
+                    <a href='#projects' className='nav-link'>Projects</a>
+                </div>
+                <div className='nav-item'>
+                    <a href='#experience' className='nav-link'>Experience</a>
                 </div>
             </div>
             <div className='tagline-container'>

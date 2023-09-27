@@ -51,6 +51,8 @@
     color: rgb(12, 162, 237);
     border-radius: 5px;
     border-width: 0.25rem;
+    text-align: center;
+    text-decoration: none;
 }
 
 .pfp-container {

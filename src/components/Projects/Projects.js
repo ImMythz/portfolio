@@ -12,7 +12,7 @@ export default function Projects() {
     return (
         <div className='projects-bg'>
             <div className='project-section-title-container'>
-                <h1 className='project-section-title'>Projects</h1>
+                <h1 className='project-section-title' id='projects'>Projects</h1>
             </div>
             <div className='projects-container'>
                 <div className='project-tile'>

@@ -17,7 +17,7 @@ export default function Skills() {
     return (
         <div className='skills-bg'>
             <div className='skill-title-container'>
-                <h1 className='skill-container-title'>My Skills</h1>
+                <h1 className='skill-container-title' id='skills'>My Skills</h1>
             </div>
             <div className='skills-container'>
                 <div className='skill-tile'>
