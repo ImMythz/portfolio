@@ -9,14 +9,21 @@
 }
 
 .tagline-container {
-    width: 33%;
+    width: 10%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .nav-item-container {
-    width: 33%;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-item-container-middle {
+    width: 50%;
     display: flex;
     align-items: center;
     justify-content: space-evenly;

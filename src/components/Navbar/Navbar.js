@@ -2,14 +2,17 @@ import React from 'react';
 import './styles.css'
 
 export default function Navbar() {
-    let logo = '</>'
+    const logo = '</>'
 
     return (
         <div className='nav-container'>
             <div className='nav-item-container'>
                 <p className='icon-style-alt'>{logo}</p>
             </div>
-            <div className='nav-item-container'>
+            <div className='nav-item-container-middle'>
+                {/* <div className='nav-item'>
+                    <p className='icon-style-alt'>{logo}</p>
+                </div> */}
                 <div className='nav-item'>
                     <a href='#about' className='nav-link'>About</a>
                 </div>
@@ -24,7 +27,7 @@ export default function Navbar() {
                 </div>
             </div>
             <div className='tagline-container'>
-                {/* <p>small text here</p> */}
+                {/* <p> asd</p> */}
             </div>
         </div>
     );

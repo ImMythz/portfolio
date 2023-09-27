@@ -14,8 +14,8 @@ export default function Highlight(props) {
                                 <span className='line-color'>________</span>
                             </div>
                             <div>
-                                <p className='about-text'>When looking for ways to continue to innovate and create more efficiency for my team, I noticed an avenue in which we could further leverage the power of AI and LLMs.
-                                <span className='about-text-alt'>&nbsp;I began working on an internal "ChatGPT" that our internal team could utilize to digest the content of our documents and white papers and then use this tool to ask questions about the data.</span> 
+                                <p className='highlight-text'>When looking for ways to continue to innovate and create more efficiency for my team, I noticed an avenue in which we could further leverage the power of AI and LLMs.
+                                <span className='highlight-text-alt'>&nbsp;I began working on an internal "ChatGPT" that our internal team could utilize to digest the content of our documents and white papers and then use this tool to ask questions about the data.</span> 
                                 &nbsp;This internal tool would all our team to be able to find information faster, provide more efficient results and better understand our own data, while maintaining the privacy of our proprietary data.</p>
                             </div>
                         </div>
