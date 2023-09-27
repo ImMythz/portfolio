@@ -7,7 +7,7 @@
     width: 100%;
     height: 85vh;
     display: flex;
-    padding-bottom: 10rem;
+    padding-bottom: 2em;
 }
 
 .hero-banner-contents-container {
@@ -53,6 +53,11 @@
     border-width: 0.25rem;
     text-align: center;
     text-decoration: none;
+}
+
+.contact-btn:hover {
+    background-color: rgb(12, 162, 237);
+    color: white;
 }
 
 .pfp-container {
@@ -103,6 +108,10 @@
 
 .icon-style {
     color: white;
+}
+
+.icon-style:hover {
+    color: rgb(12, 162, 237);
 }
 
 .icon-style-alt {

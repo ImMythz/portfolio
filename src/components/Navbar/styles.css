@@ -37,3 +37,7 @@
     color: white;
     font-size: 1rem;
 }
+
+.nav-link:hover {
+    color: rgb(12, 162, 237);
+}

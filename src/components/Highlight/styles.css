@@ -1,0 +1,63 @@
+.work-highlight-bg {
+    width: 100%;
+    background-color: #34353a;
+    display: flex;
+    justify-content: center;
+}
+
+.work-highlight-container {
+    width: 80%;
+    background-color: #34353a;
+    padding: 2rem;
+}
+
+.work-highlight-title {
+    font-size: 2.5rem;
+    margin: 2rem 0 0.5rem 0;
+    width: 100%;
+    color: white;
+}
+
+.work-highlight-content-container {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.work-highlight-content {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.color-block {
+    width: 335px;
+    height: 220px;
+    background-color: rgb(12, 162, 237);
+    position: relative;
+}
+
+.work-highlight-img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: -2rem;
+    bottom: 2rem;
+}
+
+.line-color {
+    color: rgb(12, 162, 237);
+    font-size: 1rem;
+    font-weight: 800;
+}
+
+.about-text {
+    color: white;
+    margin: 0.25rem 1rem 2rem 1rem;
+    font-size: 1rem;
+}
+
+.about-text-alt {
+    color: rgb(12, 162, 237);
+}

@@ -5,6 +5,7 @@ import About from '../components/About/About';
 import Projects from '../components/Projects/Projects';
 import Skills from '../components/Skills/Skills';
 import Experience from '../components/Experience/Experience';
+import Highlight from '../components/Highlight/Highlight';
 import Contact from '../components/Contact/Contact';
 
 export default function Home() {
@@ -16,6 +17,7 @@ export default function Home() {
             <Skills></Skills>
             <Projects></Projects>
             <Experience></Experience>
+            <Highlight></Highlight>
             <Contact></Contact>
         </main>
     );
