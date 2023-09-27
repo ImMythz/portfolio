@@ -22,11 +22,12 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
+    margin-left: 2.5rem;
 }
 
 .hero-title {
     color: rgb(12, 162, 237);
-    font-size: 5rem;
+    font-size: 3rem;
     margin: 0;
 }
 

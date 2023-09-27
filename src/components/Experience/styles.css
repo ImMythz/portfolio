@@ -1,0 +1,47 @@
+.experience-bg {
+    background-color: #34353a;
+    width: 100%;
+    height: 100%;
+}
+
+.experience-container {
+    background-color: rgba(32, 160, 219, 0.158);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2.5em 0 4em 0;
+}
+
+.experience-title-container {
+    width: 100%;
+}
+
+.experience-title {
+    font-size: 2.5rem;
+    color: white;
+    text-align: center;
+}
+
+.experience-tile {
+    margin: 0.5rem 0 0.5rem 0;
+    width: 60%;
+}
+
+.job-title {
+    color: white;
+    margin: 0.25rem 0 0.25rem 0;
+}
+
+.job-date {
+    color: white;
+    margin: 0.25rem 0 0.25rem 0;
+}
+
+.job-text {
+    color: white;
+    margin: 0.25rem 0 0.25rem 0;
+    font-size: 0.75rem;
+}

@@ -12,7 +12,7 @@
 }
 
 .about-title {
-    font-size: 5rem;
+    font-size: 3rem;
     margin: 2rem 0 0.5rem 0;
     width: 100%;
     color: white;
@@ -33,6 +33,6 @@
 .about-text {
     color: white;
     margin: 0.25rem 1rem 2rem 1rem;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
