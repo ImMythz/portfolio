@@ -1,11 +1,17 @@
-.skills-bg {
+.skills-section {
+    width: 100%;
+    height: 100%;
     background-color: #34353a;
+}
+
+.skills-bg {
+    background-color: rgba(32, 160, 219, 0.158);
     width: 100%;
     height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-bottom: 4em;
+    padding: 2em 0 3em 0;
 }
 
 .skill-title-container {

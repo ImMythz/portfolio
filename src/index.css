@@ -94,6 +94,10 @@ code {
     font-size: 0.75rem !important;
   }
 
+  .projects-bg {
+    padding-bottom: 4em !important;
+  }
+
   .project-section-title {
     font-size: 1.5rem !important;
   }
@@ -205,5 +209,45 @@ code {
   .icon-div {
     margin: 0 !important;
     transform: scale(0.75);
+  }
+}
+
+@media (max-width: 450px) {
+  .line-color {
+    display: none !important;
+  }
+
+  .pfp-container {
+    width: 30% !important;
+  }
+
+  .skill-tile {
+    height: 75px !important;
+    width: 75px !important;
+  }
+
+  .skill-img {
+    width: 30px !important;
+    margin: 0.25rem !important;
+  }
+
+  .skill-title {
+    font-size: 0.5rem !important;
+  }
+
+  .color-block {
+    width: 335px;
+    height: 220px;
+    background-color: rgb(12, 162, 237);
+    position: relative;
+  }
+
+  .work-highlight-img {
+      object-fit: cover;
+      height: 100%;
+      width: 100%;
+      position: absolute;
+      left: -10px !important;
+      bottom: 10px !important;
   }
 }

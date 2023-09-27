@@ -8,12 +8,12 @@
 .about-container {
     width: 80%;
     background-color: #34353a;
-    padding: 2rem;
+    padding: 2rem 0 2em 0;
 }
 
 .about-title {
     font-size: 2.5rem;
-    margin: 2rem 0 0.5rem 0;
+    margin: 0 0 0.5rem 0;
     width: 100%;
     color: white;
 }
