@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles.css'
-import pfp from '../../images/headshot-2.png'
+import pfp from '../../images/headshot-3-test.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faFile } from '@fortawesome/free-solid-svg-icons';
@@ -22,7 +22,6 @@ export default function HeroBanner() {
                     <div className='icon-div'>
                         <svg height="100" width="25" className='dash-svg'>
                             <line x1="12.5" y1="100" x2="12.5" y2="0" class="icon-dash"></line>
-                            Sorry, your browser does not support inline SVG.
                         </svg>
                     </div>
                     <div className='icon-div'>
