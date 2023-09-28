@@ -34,7 +34,7 @@
 .skill-tile {
     width: 150px;
     height: 150px;
-    background-color: rgb(65, 69, 76);
+    background-color: #34353a;
     margin: 0.5rem;
     display: flex;
     flex-direction: column;

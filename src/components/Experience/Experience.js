@@ -13,7 +13,7 @@ export default function Experience(props) {
                         <h2 className='job-title'>Co-Founder / CTO</h2>
                         <p className='job-date'><strong>Havyn</strong> - 05/23 - Current</p>
                         <p className='job-text'>
-                            Creating and developing an innovative Real Estate software that leverages AI/Machine Learning to elevate the entire Real Estate industry
+                            Creating and developing an innovative Real Estate software that leverages AI/Machine Learning to elevate the entire Real Estate industry.
                         </p>
                     </div>
                     <div className='experience-tile'>
@@ -26,7 +26,7 @@ export default function Experience(props) {
                             ADP API. This allowed employees across the organization to interact and stay connected. The company
                             intranet simultaneously increased employee engagement and company alignment by providing employees a
                             "one stop shop" for tools, contacts, and resources to empower employees to flourish within their job function.
-                            Maintained legacy Wordpress, ASP.NET Storefront sites, as well as implemented AEM across company brands
+                            Maintained legacy Wordpress, ASP.NET Storefront sites, as well as implemented AEM across company brands.
                         </p>
                     </div>
                     <div className='experience-tile'>
