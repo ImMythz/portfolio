@@ -30,7 +30,7 @@ export default function Experience(props) {
                         </p>
                     </div>
                     <div className='experience-tile'>
-                        <h2 className='job-title'>Co-Founder / Lead Software Developer</h2>
+                        <h2 className='job-title'>Lead Software Developer</h2>
                         <p className='job-date'><strong>Vibes for Spotify</strong> - 10/21 - 02/23</p>
                         <p className='job-text'>
                             Creating and developing an innovative tool that revolutionizes the way Spotify users discover, explore, and
