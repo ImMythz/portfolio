@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.964292bb.css",
+    "main.js": "/portfolio/static/js/main.f8b1564b.js",
+    "static/js/787.8ef7c0c8.chunk.js": "/portfolio/static/js/787.8ef7c0c8.chunk.js",
+    "static/media/headshot-3-test.png": "/portfolio/static/media/headshot-3-test.97114e3ea14a1595912e.png",
+    "static/media/Intranet.png": "/portfolio/static/media/Intranet.8bdfe35a81a54e72f6df.png",
+    "static/media/web-homepage.PNG": "/portfolio/static/media/web-homepage.77fc80d0efa17f516b26.PNG",
+    "static/media/VibesExample.png": "/portfolio/static/media/VibesExample.a2247c6eff92937ab629.png",
+    "static/media/AEM-logo.png": "/portfolio/static/media/AEM-logo.32a5db88cbda24b6927c.png",
+    "static/media/SC_screenshot_1.png": "/portfolio/static/media/SC_screenshot_1.65ae1767295be144f1ef.png",
+    "static/media/Weather_Dashboard_Screenshot.png": "/portfolio/static/media/Weather_Dashboard_Screenshot.6ba76cce45e41cca80ec.png",
+    "static/media/python.png": "/portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/IE-GPT-Structure.png": "/portfolio/static/media/IE-GPT-Structure.9e00500422be659542e3.png",
+    "static/media/TB-screenshot-2.png": "/portfolio/static/media/TB-screenshot-2.c6ca748144564c8ee384.png",
+    "static/media/MySQL-logo.svg": "/portfolio/static/media/MySQL-logo.e6eace2f2ef52ce0e78749d181f3bb76.svg",
+    "static/media/AWS_logo.svg": "/portfolio/static/media/AWS_logo.7971a21e96c8377c76545d03a2da9c11.svg",
+    "static/media/django-logo.svg": "/portfolio/static/media/django-logo.7319354d3a839414ac79c245124c4d7d.svg",
+    "static/media/Typescript_logo.svg": "/portfolio/static/media/Typescript_logo.9ad81d2e09b9cd2265cdb1e55d83a709.svg",
+    "static/media/HTML-CSS-logo.svg": "/portfolio/static/media/HTML-CSS-logo.74c2b81286985e907b2701fce233c00d.svg",
+    "static/media/TensorFlow-logo.svg": "/portfolio/static/media/TensorFlow-logo.d2e97d1ee7b318fc733d84a51d1cffa0.svg",
+    "static/media/Git-logo.svg": "/portfolio/static/media/Git-logo.975ded38a459c0f67627cc29fdc89bff.svg",
+    "static/media/MongoDB-logo.svg": "/portfolio/static/media/MongoDB-logo.bfa6cdd80f4a99232cadb39ebbb976d2.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/JavaScript_logo.svg": "/portfolio/static/media/JavaScript_logo.acc4642f682cd93a4c20a8a02c0cfa21.svg",
+    "static/media/React-icon.svg": "/portfolio/static/media/React-icon.928f956d9c8ebcffb98a8e917154a81a.svg",
+    "main.964292bb.css.map": "/portfolio/static/css/main.964292bb.css.map",
+    "main.f8b1564b.js.map": "/portfolio/static/js/main.f8b1564b.js.map",
+    "787.8ef7c0c8.chunk.js.map": "/portfolio/static/js/787.8ef7c0c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964292bb.css",
+    "static/js/main.f8b1564b.js"
+  ]
+}
