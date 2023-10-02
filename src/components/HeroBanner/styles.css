@@ -27,18 +27,18 @@
 
 .hero-title {
     color: rgb(12, 162, 237);
-    font-size: 3rem;
+    font-size: 3.5rem;
     margin: 0;
 }
 
 .hero-title-alt {
     color: white;
-    font-size: 3rem;
+    font-size: 3.5rem;
 }
 
 .hero-alt-text {
     color: white;
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 .contact-btn {
@@ -83,7 +83,7 @@
 
 .icon-container {
     position: relative;
-    left: -4rem;
+    left: -9rem;
     display: flex;
     flex-direction: column;
     align-items: center;

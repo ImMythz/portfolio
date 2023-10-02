@@ -12,7 +12,7 @@
 }
 
 .work-highlight-title {
-    font-size: 2.5rem;
+    font-size: 3rem;
     margin: 0 0 0.5rem 0;
     width: 100%;
     color: white;
@@ -31,8 +31,8 @@
 }
 
 .color-block {
-    width: 335px;
-    height: 220px;
+    width: 433px;
+    height: 320px;
     background-color: rgb(12, 162, 237);
     position: relative;
 }
@@ -55,7 +55,7 @@
 .highlight-text {
     color: white;
     margin: 0.25rem 1rem 2rem 1rem;
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 .highlight-text-alt {

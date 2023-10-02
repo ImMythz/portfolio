@@ -12,6 +12,12 @@ code {
     monospace;
 }
 
+@media (max-width: 1350px) {
+  .pfp-img {
+    height: 75% !important;
+  }
+}
+
 @media (max-width: 950px) {
   .nav-item-container {
     width: 50%;
@@ -56,9 +62,17 @@ code {
     font-size: 0.75rem;
   }
 
+  .pfp-conatiner {
+    justify-content: flex-end !important;
+  }
+
   .pfp-img {
     width: 300px;
     height: 300px !important;
+  }
+
+  .icon-container {
+    left: -4rem !important;
   }
 
   .about-container {
@@ -164,6 +178,12 @@ code {
 
   .contact-container-title {
     font-size: 1.5rem !important;
+  }
+}
+
+@media (max-width: 800px) {
+  .nav-link {
+    font-size: 1rem !important;
   }
 }
 

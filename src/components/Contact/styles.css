@@ -7,7 +7,7 @@
 
 .contact-container-title {
     color: white;
-    font-size: 2.5rem;
+    font-size: 3rem;
     width: 100%;
     margin: 0;
     text-align: center;
@@ -33,6 +33,7 @@
     margin: 1rem;
     padding: 0.5rem 1rem 0.5rem 1rem;
     text-decoration: none;
+    font-size: 1.5rem;
 }
 
 .contact-tile-2 {
@@ -43,6 +44,7 @@
     width: fit-content;
     margin: 1rem;
     padding: 0.5rem 1rem 0.5rem 1rem;
+    font-size: 1.5rem;
 }
 
 .contact-tile:hover {
@@ -51,7 +53,7 @@
 
 .contact-icon {
     margin: 0 0 0 0.5rem;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     fill: white;
 }
 

@@ -20,7 +20,7 @@
 }
 
 .experience-title {
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: white;
     text-align: center;
     margin: 0 0 1rem 0;
@@ -34,15 +34,18 @@
 .job-title {
     color: white;
     margin: 0.25rem 0 0.25rem 0;
+    font-size: 2rem ;
 }
 
 .job-date {
     color: white;
     margin: 0.25rem 0 0.25rem 0;
+    font-size: 1.5rem;
 }
 
 .job-text {
     color: white;
     margin: 0.25rem 0 0.25rem 0;
-    font-size: 0.75rem;
+    font-size: 1.5rem;
+    font-weight: 300;
 }
