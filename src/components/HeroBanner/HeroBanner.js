@@ -4,6 +4,7 @@ import pfp from '../../images/headshot-3-test.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faFile } from '@fortawesome/free-solid-svg-icons';
+import resume from './Coding_Resume.pdf'
 
 export default function HeroBanner() {
     let dev = '>'
@@ -25,7 +26,7 @@ export default function HeroBanner() {
                         </svg>
                     </div>
                     <div className='icon-div'>
-                        <a href='./Coding_Resume.pdf' target="_blank" rel="noopener noreferrer" className="icon-style" data-position="bottom" data-tooltip="resume" download="Coding_Resume.pdf">
+                        <a href={resume} target="_blank" rel="noopener noreferrer" className="icon-style" data-position="bottom" data-tooltip="resume" download="Coding_Resume.pdf">
                             <FontAwesomeIcon icon={faFile} />
                         </a>
                     </div>
