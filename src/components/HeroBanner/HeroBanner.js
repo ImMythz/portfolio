@@ -4,7 +4,7 @@ import pfp from '../../images/headshot-3-test.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faFile } from '@fortawesome/free-solid-svg-icons';
-import resume from './Coding_Resume.pdf'
+import resume from './Coding Resume.pdf'
 
 export default function HeroBanner() {
     let dev = '>'
