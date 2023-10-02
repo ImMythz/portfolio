@@ -9,17 +9,20 @@ import './styles.css'
 
 export default function Projects() {
     return (
-        <>
-            <div className='projects-bg'>
+        <>  
+            <div className='project-section-title-container-mobile'>
+                <h1 className='project-section-title'>Projects</h1>
+            </div>
+            <div className='projects-bg' id='projects'>
                 <div className='project-section-title-container'>
-                    <h1 className='project-section-title' id='projects'>Projects</h1>
+                    <h1 className='project-section-title'>Projects</h1>
                 </div>
                 <div className='projects-container'>
                     <div className='project-tile'>
                         <div className='project-tile-cover'>
                             <h2 className='project-title'>Vibes for Spotify</h2>
                             <p className='project-description'>Powerful Spotify analytics software powered by the Spotify API and leveraging proprietary AI song recommendation algorithms</p>
-                            {/* <button className='project-btn' >LINK</button> */}
+                            <div className='project-btn-alt' >*STILL IN BETA*</div>
                         </div>
                         <img src={Vibes} className='project-img' alt='Vibes for Spotify Project Screenshot'></img>
                     </div>
@@ -27,7 +30,7 @@ export default function Projects() {
                         <div className='project-tile-cover'>
                             <h2 className='project-title'>Company Intranet</h2>
                             <p className='project-description'>Created and implemented a company wide Intranet by utilizing Sharepoint and Material-UI which allows employees to interact and stay connected</p>
-                            {/* <button className='project-btn'>LINK</button> */}
+                            <div className='project-btn-alt' >*INTERNAL TOOL*</div>
                         </div>
                         <img src={Intranet} className='project-img' alt='Vibes for Spotify Project Screenshot'></img>
                     </div>

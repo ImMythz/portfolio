@@ -255,11 +255,69 @@ code {
     font-size: 0.5rem !important;
   }
 
+  .projects-bg {
+    flex-wrap: nowrap;
+    overflow: scroll;
+    align-items: flex-start !important;
+  }
+
+  .project-section-title-container-mobile {
+    display: block !important;
+    background-color: #34353a;
+    width: 100%;
+    text-align: center;
+  }
+
+  .project-section-title {
+    font-size: 2rem !important;
+    margin: 0 !important;
+    padding-top: 1em;
+  }
+  .project-section-title-container {
+    display: none !important;
+  }
+  
+  .project-tile {
+    width: 250px !important;
+    height: 250px !important;
+  }
+
+  .projects-container {
+    width: fit-content !important;
+    display: flex;
+    justify-content: flex-start !important;
+    flex-wrap: nowrap !important;
+  }
+
   .color-block {
     width: 335px;
     height: 220px;
     background-color: rgb(12, 162, 237);
     position: relative;
+  }
+
+  .experience-tile {
+    width: 80% !important;
+  }
+
+  .experience-title {
+    font-size: 2rem !important;
+  }
+
+  .job-title {
+    font-size: 1.5rem !important;
+  }
+
+  .job-date {
+    font-size: 1rem !important;
+  }
+
+  .job-text {
+    font-size: 0.75rem !important;
+  }
+
+  .work-highlight-title {
+    font-size: 2rem !important;
   }
 
   .work-highlight-img {
@@ -269,5 +327,13 @@ code {
       position: absolute;
       left: -10px !important;
       bottom: 10px !important;
+  }
+
+  .work-highlight-content {
+    margin: 0 0 2rem 0;
+  }
+
+  .highlight-text {
+    margin: 0 !important;
   }
 }

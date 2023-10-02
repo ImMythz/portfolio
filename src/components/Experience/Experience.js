@@ -10,7 +10,7 @@ export default function Experience(props) {
                         <h1 className='experience-title' id='experience'>Experience</h1>
                     </div>
                     <div className='experience-tile'>
-                        <h2 className='job-title'>Co-Founder / CTO</h2>
+                        <h2 className='job-title'>Co-Founder / Lead Front End Developer</h2>
                         <p className='job-date'><strong>Havyn</strong> - 05/23 - Current</p>
                         <p className='job-text'>
                             Creating and developing an innovative Real Estate software that leverages AI/Machine Learning to elevate the entire Real Estate industry.
@@ -30,7 +30,7 @@ export default function Experience(props) {
                         </p>
                     </div>
                     <div className='experience-tile'>
-                        <h2 className='job-title'>Lead Software Developer</h2>
+                        <h2 className='job-title'>Software Developer</h2>
                         <p className='job-date'><strong>Vibes for Spotify</strong> - 10/21 - 02/23</p>
                         <p className='job-text'>
                             Creating and developing an innovative tool that revolutionizes the way Spotify users discover, explore, and

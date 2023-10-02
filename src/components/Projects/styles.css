@@ -8,6 +8,10 @@
     padding: 2em 0 3em 0;
 }
 
+.project-section-title-container-mobile {
+    display: none;
+}
+
 .project-section-title-container {
     width: 100%;
     text-align: center;
@@ -85,9 +89,27 @@
     border-style: none;
     color: white;
     margin: 0.5rem;
-    font-size: 0.5rem;
+    font-size: 0.75rem;
     text-align: center;
     text-decoration: none;
+}
+
+.project-btn-alt {
+    background-color: rgb(223, 226, 19);
+    width: fit-content;
+    padding: 10px 5px 10px 5px;
+    border-radius: 5px;
+    border-style: none;
+    color: white;
+    margin: 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 800;
+    text-align: center;
+    text-decoration: none;
+}
+
+.project-btn-alt:hover {
+    cursor: default;
 }
 
 .project-btn:hover {
