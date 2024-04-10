@@ -22,7 +22,7 @@ export default function Projects() {
                         <div className='project-tile-cover'>
                             <h2 className='project-title'>Vibes for Spotify</h2>
                             <p className='project-description'>Powerful Spotify analytics software powered by the Spotify API and leveraging proprietary AI song recommendation algorithms</p>
-                            <div className='project-btn-alt' >*STILL IN BETA*</div>
+                            <a className='project-btn' target='blank' href="https://drive.google.com/file/d/1cvoEs8h9bUQmsHgJkJiM76y19RVfA-Sn/view?usp=drive_link">LINK</a>
                         </div>
                         <img src={Vibes} className='project-img' alt='Vibes for Spotify Project Screenshot'></img>
                     </div>
@@ -38,7 +38,7 @@ export default function Projects() {
                         <div className='project-tile-cover'>
                             <h2 className='project-title'>Weather Dashboard</h2>
                             <p className='project-description'>Weather web application that allows you to search for a city and get the daily weather report and 5-day forecast for that city</p>
-                            <a className='project-btn' href="https://immythz.github.io/Weather_Dashboard/">LINK</a>
+                            <a className='project-btn' target='blank' href="https://immythz.github.io/Weather_Dashboard/">LINK</a>
                         </div>
                         <img src={Weather} className='project-img' alt='Vibes for Spotify Project Screenshot'></img>
                     </div>
@@ -46,7 +46,7 @@ export default function Projects() {
                         <div className='project-tile-cover'>
                             <h2 className='project-title'>Stolen Canvas</h2>
                             <p className='project-description'>Full stack E-Commerce webite that is based on the premise of pseudo-selling famous pieces of art as well as MS Paint drawing from the creators of the site</p>
-                            <a className='project-btn' href='https://afternoon-ocean-89274.herokuapp.com/'>LINK</a>
+                            <a className='project-btn' target='blank' href='https://afternoon-ocean-89274.herokuapp.com/'>LINK</a>
                         </div>
                         <img src={StolenCanvas} className='project-img' alt='Vibes for Spotify Project Screenshot'></img>
                     </div>
@@ -54,7 +54,7 @@ export default function Projects() {
                         <div className='project-tile-cover'>
                             <h2 className='project-title'>Tech Blog</h2>
                             <p className='project-description'>Tech Blog web app of a CMS-style blog site. This site allows users to create an account, sign in to an existing account, leave posts, edit posts, delete posts, and comment on posts.</p>
-                            <a className='project-btn' href="https://young-woodland-81817.herokuapp.com/">LINK</a>
+                            <a className='project-btn'target='blank'  href="https://young-woodland-81817.herokuapp.com/">LINK</a>
                         </div>
                         <img src={TechBlog} className='project-img' alt='Vibes for Spotify Project Screenshot' href="https://young-woodland-81817.herokuapp.com/"></img>
                     </div>
@@ -62,7 +62,7 @@ export default function Projects() {
                         <div className='project-tile-cover'>
                             <h2 className='project-title'>BarScout</h2>
                             <p className='project-description'>Web app that allows users to find bars in different cities, states, and counties. You will also be able to locate the bars near the searched location on a map</p>
-                            <a className='project-btn' href="https://immythz.github.io/BarScout/">LINK</a>
+                            <a className='project-btn' target='blank' href="https://immythz.github.io/BarScout/">LINK</a>
                         </div>
                         <img src={BarScout} className='project-img' alt='Vibes for Spotify Project Screenshot'></img>
                     </div>
